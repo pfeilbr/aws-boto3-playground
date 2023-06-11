@@ -1,6 +1,6 @@
 # aws-boto3-playground
 
-learn aws boto3
+learn aws [boto3](https://aws.amazon.com/sdk-for-python/)
 
 ## demo
 
@@ -13,4 +13,5 @@ jupyter lab
 
 ## resources
 
-- ...
+- [boto3](https://aws.amazon.com/sdk-for-python/)
+- [Boto3 documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
